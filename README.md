@@ -15,8 +15,8 @@
 ## Stats 👀
 
 <span>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kuntiniong&show_icons=true&theme=radical&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kuntiniong&show_icons=true&theme=radical&card_width=250" />
 </span>
 <span>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuntiniong&layout=compact&theme=radical&hide=jupyter%20notebook&card_width=230" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuntiniong&layout=compact&theme=radical&hide=jupyter%20notebook&card_width=230" />
 </span>
