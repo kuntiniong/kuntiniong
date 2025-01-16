@@ -1,4 +1,4 @@
-## My Machine Learning Projects 💻
+<!-- ## My Machine Learning Projects 💻
 
 #### [Hong Kong Instagram Username Identifier](https://github.com/kuntiniong/HK-Insta-Identifier) 
 - Hong Kong Instagram username identification
@@ -10,9 +10,9 @@
 
 #### [Truetto](https://github.com/kuntiniong/Truetto)
 - Still in progress, stay tuned!
-> *related topics: audio signal processing/ music information retrieval*
+> *related topics: audio signal processing/ music information retrieval* -->
 
-## Stats 👀
+## My Stats 👀
 
 <span>
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/?username=kuntiniong&show_icons=true&theme=radical&card_width=240" />
