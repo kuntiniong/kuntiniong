@@ -12,6 +12,11 @@
 - Still in progress, stay tuned!
 > *related topics: audio signal processing/ music information retrieval* -->
 
+## Hey there 😴
+
+- 💻 Currently learning JavaScript, git and writing better README...
+- 💡 Interested in NLP, audio signal processing, LLM and dApps
+
 ## My Stats 👀
 
 <span>
