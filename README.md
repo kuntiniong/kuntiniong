@@ -14,7 +14,7 @@
 
 ## Hey there 😴
 
-- 💻 Currently learning *JavaScript, git and writing better README...*
+<!-- - 💻 Currently learning *JavaScript, git and writing better README...* -->
 - 💡 Interested in *NLP, audio signal processing, MLLMs and dApps*
 
 ## My Stats 👀
