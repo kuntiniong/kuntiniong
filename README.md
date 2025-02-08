@@ -16,7 +16,7 @@
 
 - 💡 Interested in *NLP, audio signal processing, MLLMs and dApps*-->
 
-## My Stats 👀 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+## My Stats 👀 ![](https://komarev.com/ghpvc/?username=kuntiniong&color=green)
 
 <span>
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/?username=kuntiniong&show_icons=true&theme=radical&card_width=240" />
