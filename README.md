@@ -10,12 +10,11 @@
 
 #### [Truetto](https://github.com/kuntiniong/Truetto)
 - Still in progress, stay tuned!
-> *related topics: audio signal processing/ music information retrieval* -->
+> *related topics: audio signal processing/ music information retrieval*
 
 ## Hey there 😴
 
-<!-- - 💻 Currently learning *JavaScript, git and writing better README...* -->
-- 💡 Interested in *NLP, audio signal processing, MLLMs and dApps*
+- 💡 Interested in *NLP, audio signal processing, MLLMs and dApps*-->
 
 ## My Stats 👀
 
