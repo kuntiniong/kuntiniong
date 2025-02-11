@@ -1,7 +1,7 @@
 ## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 <span>
-  <img src="logo.gif" align="left" width=250 height=240>
+  <img src="https://i.imgur.com/rDEltn8.gif" align="left" width=250 height=240>
 </span>
 
 <br>
