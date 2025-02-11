@@ -7,9 +7,9 @@
 <br>
 <br>
 <br>
-<br>
-<p>&nbsp;&nbsp;&nbsp;This is Kyle and I'm currently working on my personal website - <a href="https://kunt.in" target="_blank">kunt.in</a> 💫</p>
-<p>&nbsp;&nbsp;&nbsp;Hope you will find my work interesting! 🌟</p>
+<p>&nbsp;&nbsp;&nbsp;- This is <strong>Kyle</strong> and I'm currently working on my <strong>personal website - <a href="https://kunt.in">kunt.in</a></strong> 💫</p>
+<p>&nbsp;&nbsp;&nbsp;- I'm interested in <em>full stack web dev, machine learning and dApps</em> ❤️</p>
+<p>&nbsp;&nbsp;&nbsp;- Reach out to me by <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
 <br>
 <br>
 <br>
