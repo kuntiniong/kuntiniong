@@ -1,4 +1,4 @@
-## Hey there 😴
+## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 This is Kyle and I'm currently a year-2 data science student at City University of Hong Kong💫
 
