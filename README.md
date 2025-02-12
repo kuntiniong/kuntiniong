@@ -6,10 +6,11 @@
 
 <br>
 <br>
-<p>&nbsp;&nbsp;&nbsp;- This is <strong>Kyle</strong> and I'm currently working on my <strong>personal website - <a href="https://kunt.in">kunt.in</a></strong> 💫</p>
-<p>&nbsp;&nbsp;&nbsp;- I'm interested in <em>full stack web dev, machine learning and dApps</em> ❤️</p>
-<p>&nbsp;&nbsp;&nbsp;- I'm studying <em>Data Science & Mathematics at <a href="https://en.wikipedia.org/wiki/City_University_of_Hong_Kong">CityUHK</a></em> 💻</p>
-<p>&nbsp;&nbsp;&nbsp;- Reach out to me by <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- This is <strong>Kyle</strong> and I'm currently working on my <strong>personal website - <a href="https://kunt.in">kunt.in</a></strong> 💫</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I'm interested in <em>full stack web dev, machine learning and dApps</em> ❤️</p>
+<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I'm studying <em>Data Science & Mathematics at <a href="https://en.wikipedia.org/wiki/City_University_of_Hong_Kong">CityUHK</a></em> 💻</p> -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Reach out to me by <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
 <br>
 <br>
 
