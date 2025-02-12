@@ -6,12 +6,10 @@
 
 <br>
 <br>
-<br>
 <p>&nbsp;&nbsp;&nbsp;- This is <strong>Kyle</strong> and I'm currently working on my <strong>personal website - <a href="https://kunt.in">kunt.in</a></strong> 💫</p>
 <p>&nbsp;&nbsp;&nbsp;- I'm interested in <em>full stack web dev, machine learning and dApps</em> ❤️</p>
+<p>&nbsp;&nbsp;&nbsp;- Studying <em>Data Science & Mathematics</em> 💻</p>
 <p>&nbsp;&nbsp;&nbsp;- Reach out to me by <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
-<br>
-<br>
 <br>
 
 ## My Stats 👀 ![](https://komarev.com/ghpvc/?username=kuntiniong&color=d83a7c)
