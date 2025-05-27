@@ -8,7 +8,7 @@
 <br>
 <br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- This is <strong>Kyle</strong> and I'm currently working on <a href="https://kunt.in">kunt.in</a></strong> 💫</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I do machine learning, UI design and web development ❤️</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I do machine learning (NLP & Audio), UI design and web development ❤️</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Reach out to me at <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
 <br>
 <br>
