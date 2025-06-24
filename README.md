@@ -1,5 +1,5 @@
 ## Hey there 👋
-<!--  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> -->
+<!--  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
 <span>
   <img src="https://i.imgur.com/6d6IBiN.gif" align="left" width=250 height=230>
 </span>
@@ -10,6 +10,16 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- This is <strong>Kyle</strong> and I'm currently working on <a href="https://kunt.in">kunt.in</a></strong> 💫</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I do machine learning (NLP & Audio), UI design and web development ❤️</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Reach out to me at <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
+<br>
+<br>
+-->
+
+<br>
+<br>
+<br>
+<p>- This is <strong>Kyle</strong> and I'm currently working on <a href="https://kunt.in">kunt.in</a></strong> 💫</p>
+<p>- I do machine learning (NLP & Audio), UI design and web development ❤️</p>
+<p>- Reach out to me at <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
 <br>
 <br>
 
