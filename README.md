@@ -1,5 +1,5 @@
-## Hey there 👋
-<!--  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
+<!--  ## Hey there 👋
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
 <span>
   <img src="https://i.imgur.com/6d6IBiN.gif" align="left" width=250 height=230>
 </span>
@@ -12,7 +12,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Reach out to me at <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
 <br>
 <br>
--->
+
 
 <br>
 <br>
@@ -22,6 +22,7 @@
 <p>- Reach out to me at <a href="mailto:dev@kunt.in">dev@kunt.in</a>! 📩</p>
 <br>
 <br>
+-->
 
 ## My Stats 👀 ![](https://komarev.com/ghpvc/?username=kuntiniong&color=d83a7c)
 
