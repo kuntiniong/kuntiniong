@@ -9,8 +9,8 @@
 </span>
 
 -->
-# hi people
-
+#  hi people  ![](https://komarev.com/ghpvc/?username=kuntiniong&color=d83a7c)
+ 
 this is kyle and i'm
 
 - a year-3 data science student at cityuhk
