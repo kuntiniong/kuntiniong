@@ -17,6 +17,6 @@ this is kyle and i'm
 
 - interested in enterprise tech, ml, privacy-preserving tech and graphic design
 
-- currently working on benchmarking collaboration-based personalized federated learning algorithms
+- currently working on benchmarking collaboration-based personalized federated learning (Co-PFL) algorithms
 
 know more about me at <a href="https://ktiong.com">ktiong.com</a> <3
