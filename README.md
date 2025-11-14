@@ -19,4 +19,4 @@ this is kyle and i'm
 
 - currently working on benchmarking collaboration-based personalized federated learning (Co-PFL) algorithms
 
-know more about me at <a href="https://ktiong.com">ktiong.com</a> <3
+know more about me at <a href="https://ktiong.com">ktiong.com</a> and keep building <3
