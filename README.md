@@ -13,7 +13,7 @@
  
 this is kyle and i'm
 
-- a year-3 data science student at cityuhk
+- a year-3 data science student doing minors in math and compsci at cityuhk
 
 - interested in enterprise tech, ml, privacy-preserving tech and graphic design
 
