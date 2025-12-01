@@ -15,7 +15,7 @@ this is kyle and i'm
 
 - a year-3 **data science** student doing minors in **math** and **compsci** at **cityuhk**
 
-- interested in **enterprise tech, ml, privacy-preserving tech and graphic design**
+- interested in **enterprise tech, ml, privacy-preserving tech and web design**
 
 - currently working on benchmarking **collaboration-based personalized federated learning (Co-PFL) algorithms**
 
